@@ -113,6 +113,6 @@ The five highest-profit products were:
 4. **Canon PC1080F Personal Copier** — $701.99
 5. **Logitech P710e Mobile Speakerphone** — $628.28
 
-Conclusion
+## Conclusion
 This project demonstrates how PostgreSQL and SQL can be used to perform sales analysis and translate raw business data into actionable insights.
 The project progresses from fundamental SQL operations to advanced techniques while maintaining a practical business-analysis focus.
